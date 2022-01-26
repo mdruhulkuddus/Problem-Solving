@@ -1,2 +1,2 @@
 # Problem-Solving
-All problem solutions included here what I have solved at different online judges.
+This repository contain all problem solutions what I have solved at different online judges.
